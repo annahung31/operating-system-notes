@@ -1,4 +1,7 @@
-# 課程筆記
+# Operating System notes
+This is some lecture notes I made when taking OS class @NTU. The materials are mainly from [清華大學開放式課程：作業系統，周志遠教授](https://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=141). This is a online free course that I highly recommended.  
+
+## Catalog
 
 [Deadlocks](Deadlocks%209e88d8629c2d495fa6f6e7b01f76a9dc.md)
 
