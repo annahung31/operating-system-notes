@@ -1,0 +1,4 @@
+﻿Name,traverse,index
+FAT,yes,整個 FS 存一個 index table
+indexed allocation,no,每個 file 有一個 index block
+,,

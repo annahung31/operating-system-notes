@@ -1,0 +1,7 @@
+﻿Attribute,Table
+File pointer,per-process
+File open count,system table
+Disk location,system table
+Access rights,per-process
+File size,system table
+,

@@ -1,0 +1,5 @@
+﻿Algorithm,Page fault rate,適用情形,缺點,Belady's Anomaly
+"Optimal(Belady)%20Algorithm%20201cbd6fbb694b1086a6d477962ac88e.md ",,,,No
+"FIFO%20algorithm%20e09a0ee68722473c92508adefedba2e5.md ",,,,Yes
+"LRU%20algorithm%20bac5b2bd0069491893aa65c3d0639211.md ",,,,No
+"Counting%20algorithm%20f4586b697c3241a297bc7b990f5c7f85.md ",,,Overflow,
